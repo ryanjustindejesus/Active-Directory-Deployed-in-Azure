@@ -19,7 +19,7 @@
 
 - <b>Setup Resources in Azure</b>
 - <b>Ensure Connectivity between the client and Domain Controller</b>
-- <b>Install Active Directory</b>
+- <b>Install Active Directory Domain Services</b>
 - <b>Create an Admin and Normal User Account in AD</b>
 - <b>Join Client-1 to your domain (mydomain.com)</b>
 - <b>Setup Remote Desktop for non-administrative users on Client-1</b>
