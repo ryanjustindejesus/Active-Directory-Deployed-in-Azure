@@ -4,7 +4,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- <b>Microsoft Azure</b> 
+- <b>Microsoft Azur</b> 
 - <b>Virtual Machines</b>
 - <b>Remote Desktop Connection</b>
 - <b>Active Directory Domain Services</b>
